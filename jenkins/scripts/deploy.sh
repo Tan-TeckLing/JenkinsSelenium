@@ -1,5 +1,3 @@
-echo 'huh'
-
 #!/usr/bin/env sh
 
 echo 'wow'
